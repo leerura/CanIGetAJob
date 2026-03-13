@@ -6,6 +6,28 @@ input  = sys.stdin.readline
 def solve():
     n = int(input())
     how_many_on_the_left = list(map(int,input().split()))
+    answer = [0] * n
+    for i in range(1, n+1):
+        left = how_many_on_the_left[i-1]
+
+        count = 0
+        index = 0
+        while(count < left or answer[index] != 0):
+            if(answer[index]==0):
+                count += 1
+                index += 1
+            else:
+                index +=1
+        answer[index] =i
+
+    for a in answer:
+        print(a, end=" ")
+    
+    
+
+def solve_brute_force():
+    n = int(input())
+    how_many_on_the_left = list(map(int,input().split()))
     members = [i for i in range(1,n+1)]
     
     '''
