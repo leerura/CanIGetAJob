@@ -6,7 +6,6 @@ def solve():
     n,m = map(int,input().split())
     maps = [list(input().strip()) for _ in range(n)]
 
-    
     '''
         일단 모든 경우의 수를 다 따지자 n,m 모두 작아서 괜찮음
     '''
