@@ -1,0 +1,1 @@
+{"name":"Local: 1270","url":"/Users/ethan/Desktop/baekjoon/1270.py","tests":[{"id":1773481152769,"input":"4\n10 1 2 3 1 2 3 1 2 3 1\n5 1 1 1 2 2\n6 10 10 2 10 10 2\n6 1 1 1 2 2 2 ","output":"SYJKGW\n1\n10\nSYJKGW"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/1270.py","group":"local","local":true}
