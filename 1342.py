@@ -10,6 +10,8 @@ def solve():
     counter = Counter(str)
     
     answer = 0
+
+    
     for s in list(permutations(str,len(str))):
         if(is_lucky(s)):
             answer+=1
