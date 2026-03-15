@@ -1,0 +1,1 @@
+{"name":"Local: 1680","url":"/Users/ethan/Desktop/baekjoon/1680.py","tests":[{"id":1773560287891,"input":"3\n2 2\n1 1\n2 2\n6 3\n1 1\n2 2\n3 3\n3 3\n1 2\n2 2\n3 1","output":"8\n6\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/1680.py","group":"local","local":true}
