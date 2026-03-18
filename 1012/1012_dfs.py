@@ -26,7 +26,7 @@ def solve():
                 nr = row + dr[i]
                 nc = col + dc[i]
                 if(0<=nr<n and 0<=nc<m and maps[nr][nc] == 1):
-                    
+                    maps[nr][nc] = 0
                     dfs(nr,nc)
             return
 
