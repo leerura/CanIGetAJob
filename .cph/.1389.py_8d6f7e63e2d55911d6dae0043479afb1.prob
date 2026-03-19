@@ -1,0 +1,1 @@
+{"name":"Local: 1389","url":"/Users/ethan/Desktop/baekjoon/1389.py","tests":[{"id":1773920005997,"input":"5 5\n1 3\n1 4\n4 5\n4 3\n3 2","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/1389.py","group":"local","local":true}
