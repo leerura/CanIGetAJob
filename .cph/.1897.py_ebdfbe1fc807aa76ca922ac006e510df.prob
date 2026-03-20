@@ -1,0 +1,1 @@
+{"name":"Local: 1897","url":"/Users/ethan/Desktop/baekjoon/1897.py","tests":[{"id":1773985379624,"input":"9 cal\ncal\ncalf\ncalfs\ncall\ncalls\nchoral\nchorale\ncoal\ncoral","output":"chorale"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/1897.py","group":"local","local":true}
