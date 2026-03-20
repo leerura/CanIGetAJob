@@ -1,0 +1,1 @@
+{"name":"Local: 1743","url":"/Users/ethan/Desktop/baekjoon/1743.py","tests":[{"id":1773983911635,"input":"3 4 5\n3 2\n2 2\n3 1\n2 3\n1 1","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/1743.py","group":"local","local":true}
