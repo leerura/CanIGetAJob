@@ -1,0 +1,1 @@
+{"name":"Local: 2210","url":"/Users/ethan/Desktop/baekjoon/2210.py","tests":[{"id":1773988286380,"input":"1 1 1 1 1\n1 1 1 1 1\n1 1 1 1 1\n1 1 1 2 1\n1 1 1 1 1","output":"15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/2210.py","group":"local","local":true}
