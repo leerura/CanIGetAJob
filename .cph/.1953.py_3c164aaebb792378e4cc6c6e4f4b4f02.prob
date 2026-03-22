@@ -1,0 +1,1 @@
+{"name":"Local: 1953","url":"/Users/ethan/Desktop/baekjoon/1953.py","tests":[{"id":1774103304006,"input":"5\n1 3\n1 5\n2 1 4\n1 3\n1 2","output":"3\n1 4 5\n2\n2 3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/1953.py","group":"local","local":true}
