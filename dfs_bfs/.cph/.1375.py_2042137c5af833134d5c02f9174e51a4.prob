@@ -1,0 +1,1 @@
+{"name":"Local: 1375","url":"/Users/ethan/Desktop/baekjoon/dfs_bfs/1375.py","tests":[{"id":1774939986472,"input":"4 2\n1 2\n2 3\n4\n1 2\n2 3\n1 3\n1 4","output":"1 2 1 gg"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/dfs_bfs/1375.py","group":"local","local":true}
