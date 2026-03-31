@@ -1,0 +1,1 @@
+{"name":"Local: 1937","url":"/Users/ethan/Desktop/baekjoon/dfs_bfs/1937.py","tests":[{"id":1774964199403,"input":"4\n14 9 12 10\n1 11 5 4\n7 15 2 13\n6 3 16 8","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/dfs_bfs/1937.py","group":"local","local":true}
