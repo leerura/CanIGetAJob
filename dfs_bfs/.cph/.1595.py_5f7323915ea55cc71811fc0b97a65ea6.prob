@@ -1,0 +1,1 @@
+{"name":"Local: 1595","url":"/Users/ethan/Desktop/baekjoon/dfs_bfs/1595.py","tests":[{"id":1774961460110,"input":"5 1 6\n1 4 5\n6 3 9\n2 6 8\n6 1 7","output":"22"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/dfs_bfs/1595.py","group":"local","local":true}
