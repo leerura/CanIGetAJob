@@ -17,10 +17,10 @@ def solve():
         
         first = num//p
         second = num//q
-        data[first] = cal(first)
-        data[second] = cal(second)
+        data[num] = cal(first)+cal(second)
         
-        return cal(first)+cal(second)
+        
+        return data[num]
     
     print(cal(n))
 
