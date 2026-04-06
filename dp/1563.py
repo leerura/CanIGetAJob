@@ -28,7 +28,8 @@ def solve():
     answer = 0
     for l in range(2):
         for a in range(3):
-            answer += dp[n][l][a]
+            answer = (answer+ dp[n][l][a])%1000000
+
     print(answer)
 
 
