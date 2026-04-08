@@ -1,0 +1,1 @@
+{"name":"Local: 1011","url":"/Users/ethan/Desktop/baekjoon/dp/1011.py","tests":[{"id":1775611736473,"input":"3\n0 3\n1 5\n45 50","output":"3\n3\n4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/dp/1011.py","group":"local","local":true}
