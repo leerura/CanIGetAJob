@@ -1,0 +1,1 @@
+{"name":"Local: 2665","url":"/Users/ethan/Desktop/baekjoon/dijkstra/2665.py","tests":[{"id":1775721290042,"input":"8\n11100110\n11010010\n10011010\n11101100\n01000111\n00110001\n11011000\n11000111","output":"2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/dijkstra/2665.py","group":"local","local":true}
