@@ -43,8 +43,6 @@ def solve():
     
     print(min(first[c1]+dijkstra(c1)[c2]+dijkstra(c2)[n],first[c2]+dijkstra(c2)[c1]+dijkstra(c1)[n]))
     
-    
-
 
 if __name__=="__main__":
     solve()
