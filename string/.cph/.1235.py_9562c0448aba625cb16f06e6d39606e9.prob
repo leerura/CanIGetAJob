@@ -1,0 +1,1 @@
+{"name":"Local: 1235","url":"/Users/ethan/Desktop/baekjoon/string/1235.py","tests":[{"id":1775797284124,"input":"3\n1212345\n1212356\n0033445","output":"3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/ethan/Desktop/baekjoon/string/1235.py","group":"local","local":true}
